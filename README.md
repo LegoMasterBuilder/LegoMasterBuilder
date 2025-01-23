@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 
 ## How to reach me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="10em" align="center" alt="Follow Hans on LinkedIn" title="Follow Hans"/>](https://www.linkedin.com/in/hans-lorico/)
-[<img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="10em" align="center" alt="Follow Hans on orcid">](https://orcid.org/0009-0008-6266-3260)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20em" align="center" alt="Follow Hans on LinkedIn" title="Follow Hans"/>](https://www.linkedin.com/in/hans-lorico/)
+[<img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="20em" align="center" alt="Follow Hans on orcid">](https://orcid.org/0009-0008-6266-3260)
