@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # I'm Hans
-I’m Hans, a BS Computer Science graduate from UP Diliman with a passion for turning ideas into practical digital solutions. I enjoy working with Python, web and software development, while also exploring UI/UX and data science to combine logic with creativity. I thrive in collaborative environments and always aim to create meaningful, impactful work.
+I’m Hans, a BS Computer Science graduate from the University of the Philippines Diliman with a passion for turning ideas into practical digital solutions. I enjoy working with Python, web and software development, while also exploring UI/UX and data science to combine logic with creativity. I thrive in collaborative environments and always aim to create meaningful, impactful work.
 
 Take a closer look at what I can do ↓
 
