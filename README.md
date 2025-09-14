@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-# I'm Hans
-a recent BS Computer Science cum laude graduate from the University of the Philippines Diliman with a passion for turning ideas into practical digital solutions. I enjoy working with Python, web and software development, while also exploring UI/UX and data science to combine logic with creativity. I thrive in collaborative environments and always aim to create meaningful, impactful work.
-
-Take a closer look at what I can do ↓
-
+I'm Hans Lorico, a recent cum laude graduate of Computer Science from the University of the Philippines Diliman. I am passionate for turning ideas into practical digital solutions. I enjoy working with Python, web and software development, while also exploring UI/UX and data science to combine logic with creativity. I thrive in collaborative environments and always aim to create meaningful, impactful work.
 <!--
 **LegoMasterBuilder/LegoMasterBuilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
