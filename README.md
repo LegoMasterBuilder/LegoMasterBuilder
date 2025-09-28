@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Hans Lorico, a recent cum laude graduate of Computer Science from the University of the Philippines Diliman. I am passionate for turning ideas into practical digital solutions. I enjoy working with Python, web and software development, while also exploring UI/UX and data science to combine logic with creativity. I thrive in collaborative environments and always aim to create meaningful, impactful work.
+I'm Hans Lorico, a recent cum laude graduate of Computer Science from the University of the Philippines Diliman. I am passionate for turning ideas into practical digital solutions. I enjoy working with Python, web development and software development, while also exploring UI/UX and data science to combine logic with creativity. I thrive in collaborative environments and always aim to create meaningful, impactful work.
 
 ## My Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
