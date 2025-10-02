@@ -19,6 +19,7 @@ I'm Hans Lorico, a recent cum laude graduate of Computer Science from the Univer
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ## How to reach me
